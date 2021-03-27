@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Possible Impact of NRC CAA on DNT NT and SNT Communities in India"
+author: "Nomad Liberty Movement"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
