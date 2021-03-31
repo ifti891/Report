@@ -2,7 +2,9 @@
 title: "Possible Impact of NRC CAA on DNT NT and SNT Communities in India"
 author: "Nomad Liberty Movement"
 date: "`r Sys.Date()`"
-output: pdf_document
+output:
+  html_document:
+    df_print: paged
 site: bookdown::bookdown_site
 ---
 
