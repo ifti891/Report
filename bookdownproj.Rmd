@@ -1,0 +1,511 @@
+---
+title: "Possible Impact of NRC CAA on DNT NT and SNT Communities in India"
+author: "Nomad Liberty Movement"
+date: "`r Sys.Date()`"
+output: pdf_document
+site: bookdown::bookdown_site
+---
+
+\
+
+### **Acknowledgement**
+
+We would like to start with thanking the ........ for providing the financial support for this report. We would also like to thank the many individuals whose contributions have been invaluable to the shaping of this report. We thank Ashok Bhosale and Shankar Bhosale for being able to research in such a fragile time during the Coronavirus Pandemic as a valued member of the team.
+
+ 
+
+(paragraph) The research is conducted by the Nomad Liberty Movement with financial help from .......
+
+(paragraph) We are thankful for the financial help from the.......
+
+\
+
+### **List of Tables, Maps, Figures and Pictures**
+
+### **Glossary, List of acronyms**
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+### **Why this report?**
+
+\
+
+In 1871, British government notified close to 200 nomadic, migratory and forest communities as 'criminal tribes' and created a system of surveillance, arrest, and detention of these communities by enacting the draconian Criminal Tribes Act. The Act gave wide ranging powers to the police and law enforcement agencies to arrest, detain and legitimize violence against these communities. It was only in the year 1950 that this draconian legislation was repealed and the communities were denotified in 1952. The Act was replaced by Habitual Offenders Act, which continued with the definition of 'habitual offenders' and the targeting of these communities has also continued. The practice of nomadism by these communities is either as a source of livelihood cultural practice. Some of these communities were forced to practice nomadism as they were ousted from their forest lands by the Brahmanical system and colonial policies. Moreover, the post-colonial legislations continue to criminalize their traditional livelihood activities and have forced them into a life of penury.
+
+According to a Renke Commission report published in 2008, a large population among these communities are far away from socio-political and educational development. The report says people from the communities do not have records of right for their residential plots even though they are living there for generations. Demolition or eviction of their settlements by local revenue officials, municipal officials, realtors, police and the politicians are part of their struggle for survival. According to the same report, children from the communities have poor access to education and hence do not possess any certificate related to the same. The Renke commission had therefore recommended the issuing of caste certificates, BPL certificates, voting cards to these communities. As per the report, 72% of the population of nomadic and denotified tribes do not have ration card, 48% of DNTs and 60% of NTs do not have a birth certificate, 89% of the DNTs and 98% of NTs do not own land. From this study, it is evident that basic identity certificates are not accessible to people from NT-DNT communities.
+
+In year 2019 Indian central government announced that it will conduct a national citizenship registration exercise and it has also enacted the Citizenship Amendment Act, 2019. Central government intended to start collecting data for the National Population Register (NPR), from April 1, which was delayed due to the imposition of lockdown. Pursuant to this exercise, people of the country will have to produce various identity certificates,which will go on to determine their citizenship status. Those unable to produce the documents will be notified as 'doubtful'. The documents required to establish one's claim to citizenship are not yet clear. The Assam NRC process informs us that those unable to prove their citizenship through documents, will have to approach the Courts/Tribunals set up under Foreigner's Act, 1946. Those who fail to prove their claims in courts shall be sent to detention centres set up for foreigners. This is a very brief but a broad picture of how the NRC process will unfold.     
+
+If we foresee the impact of NPR, NRC and CAA together, we can clearly visualise the threat of 'placeless' nomadic, semi-nomadic and denotified communities becoming 'stateless'. This research will be a conscious effort to verify the inaccessibility of the nomadic, semi-nomadic and denotified communities to certificates required to establish their claim to citizenship under the NPR-NRC-CAA regime and to study its impact on further disenfranchising them.
+
+Ever since the Citizenship Act Amendment 2019 was debated in Parliament, a large number of Muslims, Dalits and Bahujans have been opposing the law. Religious minorities such as Jains and Christians will be granted Indian citizenship if they seek asylum in India, but Muslims in these countries will not be granted Indian citizenship and the law is silent on refugees coming to India from Sri Lanka, Myanmar and other Indian border countries. After the enactment of this Act, the NRC was announced in Parliament. In order to be enrolled in the NRC, everyone has to prove that the ancestor of their family was born in India and those who cannot prove this will not be granted citizenship of India and have to apply for citizenship. In the wake of this law, those who are afraid of losing their citizenship have started a struggle against it. Meanwhile, this research will be useful to verify the relevance of the objections taken by the communities over the implementation of CAA and NRC and hence can be beneficial for the legal fight of the communities who are opposing the law.
+
+Introduction
+
+In the story titled 'I Think I'll Put My Son in School' from Lakshman Mane's book 'Why to Study', an individual from the Dombari community takes his child to a school to get him admitted there. While narrating this incident, he says, "I went to the school for admission. teacher asked me for a birth certificate. Saheb, tell me, what time was my child born? What day was it? Was it day or night? What village should I mention Saheb? When my wife was pregnant, we were in some field far away, near Solapur. What is the name of the field? The village? Who knows? Do I know how to read and write? Master said to bring the certificate. Which village will it come from?! None of us have ever gone to school. Father didn't educate us, neither did grandfather. There isn't a single generation in our family who studied." 
+
+Later on in the same story, during a conversation between the author and this individual, the author asks him, "What is the name of our country?" He answers, "Saheb, we don't even have a village, what country do you speak of?" (Kade, 2020)
+
+According to the Citizenship Amendment Act, those persons whose name does not appear in the National Registry of Citizens and who are Hindu, Buddhist, Sikh, Christian and Jain will be given a chance to prove their citizenship and persons belonging to Muslim faith will not be given the same. Many people belonging to nomadic and denotified tribes who are not Muslim will also possibly get this opportunity. But in order to prove their citizenship, they will have to demonstrate that their ancestors were also born in this country. As seen in the incident from the story quoted above, there are generations of people who could never enter schools or could never become permanent residents of any village and could never furnish such proof. It is impossible that the lawmakers are unaware of this fact and if in fact they are aware, then it is safe to say that this amendment to the act has been implemented without any understanding of the cultural diversity or the ground level situation of the people of this country. If this is true, then the intellectual capabilities and intentions of these lawmakers becomes suspect. If these people did not have the necessary intellectual capabilities, they would not have been able to govern a country of 130 crore people.That is why, their intention seems doubtful here. The section of society that is thus unable to fulfill the criteria for citizenship according to this new law has not been formed without context, but because of historical oppression. This historic oppression is based on caste discrimination. The people in power have full knowledge of this and they create conducive environments for such oppression through these laws.
+
+In the year 1871, the British empire declared a few tribes who were a part of Indian society as criminal tribes and gave orders to keep constant surveillance on them. It was made compulsory for them by law to take permission from the police patil of any village before setting up their huts outside the village. If they did not have the documents demonstrating this permission, they were not allowed to stay in that place. In the year 1952, amendments were made to this law and it was renamed as habitual offenders act. As a result many of the Nomadic communities started being recognized as 'denotified tribes' instead of 'criminal tribes'. But the gaze of society and police towards them which sees them as criminals has not changed to this day.
+
+Denotified, Nomadic and Semi Nomadic Tribes are the most neglected marginalized and economically and socially deprived communities. And Colonial gaze of misunderstanding and mislabelling the communities one for others due to certain common practices among the communities such as in book Valley of Kashmir (Lawrence, 1895). "Sometime during the Mughal rule, and for most only after the colonial rulers' policy interventions beginning from 1857 and usurping their resources, and also denying them access to their traditional capital through different enactments, including the Criminal Tribes Act of 1871, Forest Act of 1878, and revenue policies beginning with Permanent Settlement of 1793." ([Renke 2008:95](about:blank)).
+
+"The same colonial legacy has continued even in Independent India. These communities were never consulted by the policymakers while plans for their development were being drawn. To state the truth, the policies of the colonial rulers, as well as of the successive governments of independent India, did irreparable damage to these communities in making them adopt a criminal way of life, and if not to this, then to their impoverishment and marginalisation, as happened with non Criminal Tribes of nomads and semi-nomads, Why communities became what they became was because of the historical context of the rule, an attack on their livelihood, and their oppression." ([Renke 2008:95](about:blank))
+
+#### **Colonialism coupled with Brahminical governance**
+
+It is to the Brahmanvaad's benefit that caste and patriarchy are not destroyed and so they have ensured that the law of Manusmriti has been accepted and applied through the ages. That is why, nobody except those belonging to upper castes have had access to basic needs such as food, clothing, shelter, and education fulfilled or received the rights to freedom, equality, free speech, protection from exploitation, freedom of religion, which are owed to every citizen of India. Essentially, there has been continuous struggle on the part of Dalit, Bahujan, Nomadic and Denotified communities, Adivasis, and especially women from all communities, religious minorities to receive these rights. The constitution and its law was always by their side in this struggle but people with a Manuvadi mindset asserted their dominance over constitution and justice by bringing about a series of changes that suited them best. The recent amendment to the Citizenship Act and Amit Shah's announcement of the NRC was a part of the same series.
+
+According to the Citizenship Act of 1955, a person born in India before 26 January 1950 or after that up till 1 July 1987, or according to the 2003 amendment, on 1 July 1987 or a person born in India before the 2003 amendment was enforced, or a person whose parents were both citizens of India at the time of the 2003 amendment, or whose one parents was an Indian citizen and the other wasn't an illegal intruder would be recognized as an Indian citizen. According to the Constitution of India, every citizen has some fundamental rights through which the architects of the Constitution have aimed to bring Indian society, which is marked by inequalities, closer to equality. But because power went straight to those who uphold Brahminism after independence, they have made strict arrangements from all directions to ensure that the Constitution is not fully enforced.
+
+Only under a Brahmanvadi system can those ruling this country be unaware about how such an irresponsible and inconsiderate response from a government in the 21st century denies citizenship to a large number of people.'Nomadic and migratory tribes' have been mentioned in the seventh list of the Constitution but not a single party which has been in power since Independence has thought about including or tried to include them in the census. The protection accorded to all citizens of India have been mentioned in the same list, but people from nomadic and denotified tribes have never received any Constitutional rights or security. It is a fact that they have to struggle even for basic human rights. For those who have to struggle even to get a caste certificate, benefiting from reservation is a distant dream. As a result of the Dalit Panthers movement of the 70s and the movements of the 90s of nomadic and denotified communities, the government set up committees to study this subject. Even in these committees, only a handful of people from the community found representation. Accordingly, Dr. Leenkumar Bavne says, "A person's social status is decided based on their citizenship, freedom, and their relationship with the family, but people from nomadic communities have never received freedom of citizenship.
+
+A large number of Muslim and Dalit-Bahujan citizen had been opposing the Citizenship Amendment Bill since it came up for discussion in the parliament. The bill was passed in total disregard of this opposition. According to the Act, persecuted Hindus, Buddhists, Parsi, Jain, and Christian minorities who seek asylum in India will be granted Indian citizenship, but Muslims citizens from the same countries will not. Further, the Act says nothing about asylum seekers from other countries such as Sri lanka and Myanmar with which India shares a border. After passing this act, the implementation of the NRC was announced in Parliament. To have one's name registered in the NRC, each citizen would have to prove that their ancestors were born in India and anyone who couldn't prove this would be stripped of their citizenship and have to reapply. This was the strange 'demonetization' plan hatched by those in power. Those who feared that they would be impacted by this law and would lose even the right to fight for all the fundamental rights they had never received began resisting this.
+
+These questions posed by Mane are the questions of 15% of India's nomadic and denotified tribal communities. This '15%' is not a figure of the census but has been derived from first the Renke and then the  Idate commisson surveys. The government has never thought about how to include nomadic communities who wander for sustenance and to preserve their culture, in the census. When TN Pratapan presented this question before Social Justice and Empowerment Department parliament, he received this response on 4 February 2020: The government has not taken any strategic decision to include Nomadic and Denotified communities in the 2021 census.
+
+## **Nomadism**
+
+The word "nomad" is derived from Latin through Gk.﻿ nemō, meaning either "pasture" or "distribute." The simplest definition of a nomad is a person who must keep moving to gain basic life sustenance. Nomadism is usually the product of a sparse environment, weather patterns (sometimes seasonal), or economic or political shifts making mobility essential for survival. It does not properly apply to immigrants (Boraas, 2011).
+
+For thousands of years Nomadic communities travelled, moved from one place to another for reasons including; in search of livelihood, cultural association, grazing for their livestock which is no less an ecological reason, a borderless world thus attaching a 'Placelessness' to their identity. Sometimes such 'migrations' are forceful and are due to the animosity of the settled civilization towards the nomadic communities.
+
+Nomadism is considered a practice of migration from one place to another in search of livelihood. However, the simplistic understanding of 'migration' doesn't explain the word in its length and the breadth-the idea that there is 'placelessness' which is inherent to nomadism makes it different from the casual reading of 'Migration'. Most of the work in India happened on arid area nomadism in India such as Raikas, Rabadi's of Rajasthan and to some extent in Gujarat (Kavoori, 2005; Agrawal, 1992) and similarly in Africa with the Boran, Rendilli, Masia (E. Fratkin, 1998; E. M. Fratkin et al., 1999). Hardly answer such a complicated question. Most of these studies are limited to animal husbandry or ecological sensibilities of the communities. At the same time the
+
+"The Segovia Declaration of Nomadic and Transhumant Pastoralists, 2007, also reflects on the reasons for the trials and tribulations of the nomadic pastoral communities across the globe. It says, In many societies, governments have"nationalised" and confiscated rangelands, forests and other natural resources on which pastoralists depend, removing them from community care, control and property and alienating nomadic pastoralists from their natural rights. In the meantime, current neoliberal economic and social policies globally impose the privatization of natural resources including life itself. These have resulted in an unprecedented concentration of economic and political power in the hands of very few elites throughout the world. These policies are destroying the livelihoods, environment, nature, and culture, including the spiritual values and dignity of pastoralists and other rural communities. Our rural areas are faced with conflict and war and are becoming empty as our people countries'. migrate to cities and other" ([Renke 2008:97](about:blank))
+
+### **Background**
+
+#### Overview/Historical background/Problems/ Marginalisation of NT, DNT, and SNT Communities
+
+Roughly 150 million [(Renke, 2008)](https://www.zotero.org/google-docs/?Gu7xId) people currently practising different forms of Nomadic livelihoods in India. Some are more close to an egalitarian form much romanticised such as Nomadic-Pastoralism while others have been enforced by the Caste system such as Begging, Prostitution, Dancing Tribes, working in some of the most degrading forms of livelihoods. Alone Nomadic-Pastoral unofficially counts around 40 millions. Laws are made to repress Nomads, stereotypes are peddled as much in the larger society, in media and academia. Criminality as a form of identity made to be a part of hundreds of tribes, even when the law [(Criminal Tribes Act 1871, n.d.)](https://www.zotero.org/google-docs/?KlJish) was repealed (Denotified) in 1952 criminality remained intact as ex-criminals and Habitual offenders [(Sonavane et al., 2020)](https://www.zotero.org/google-docs/?emWMgm). Through the Criminal Tribes Act of 1871, 237 Nomadic Tribes were tagged as criminals.
+
+The Ayyangar Committee report recommended the repeal of the Criminal Tribe Act (CTA) to the Government of India. Resulting in Criminal Tribes Laws (Repeal) Act, 1952 and was enacted based on this recommendation. The act de-notified the people who were previously called criminals, and these people are now referred to as 'De-notified Tribes' (DNTs). The qiuality of life the nomadic people is worse off, due to the peculiarity their social and spatial location in the society. Due to zero presence in the national or state politics the condition of Nomadic communities were never highlighted or even mentioned in policy level or anywhere where in the power structures. It is no irony that till now when we have to understand or have to lack of information about the nomadic communities' Colonial documents are the place to look for the same. And till now only one commission were ever sat down to just 'gather' some basic information on the nomadic communities. Which, itself relied on the earlier mentions database and selective survey. Hence rendering it incomplete to properly numerating the number of all the nomadic communities. The communities which are left and were never recognized at the first place but practice nomadism.
+
+Currently there is no official record mentioning the exact number of nomadic communities in India. There are some documents available in grey literature and some reports produced by some NGO's. The information pertaining to other forms of Nomadism beside Pastoralism is completely ignored by everyone. IIM ahmedabad report with ILLSE (cite report here) tried to collate some information but suffered from lack of information and doesn't tell if authors ever visited any of the community. The report runs on assumptions e.g. The Muslim Gujjar Pastorals of Himachal and Uttrakhand were assumed to be from Gujarat and Gojri is tagged as Gujarati instead.  This information pertains to Pastorals with whom some of the organizations work and take funding on the names of Sustainability and ecology.  Of course, there is scarcely anything available to look for the information regarding hundreds of Nomadic communities. This cycle of disinformation and misinformation about the existence of hundreds of Nomadic tribes leads to furthering of marginalization.
+
+"The livelihoods of non-pastoral nomads were largely affected by mechanization, industrialization and emergence of modern entertainment technologies." ([Renke 2008:97](about:blank)). while at the same time the dance and music of the nomadic communities has been appropriated and given a spiritual angle and specifically held with the Bhramins. However, the real producers of such knowledge were left out and made to disappear their art from their hands. ([note on p.97](about:blank))
+
+Historically Nomadic communities remained outside the framework of the Nomadic societies. However, the complexities which inhabit the Nomadic communities of India makes it difficult for many to take it further. Through Dr. Ambedkar's idea of "Broken Men' we can trace this complexity of nomadic communities of India. We do not know when 'Caste' and Nomadic Societies intersected. But we do know that Prostitution, Begging, Dancing and Singing for Brahmins, Playing Musical Instruments are the product of Caste. We do not know the exact time period when this might have happened. However, 'Broken men' tell a similar narrative when Artisan and Craftsmen were condemned as unclean untouchables.
+
+#### Criminality a bitter feature of Identity
+
+##### Ex-criminals by birth
+
+"If the State, which is supposed to look after the welfare of its citizens, becomes the tormentor, who can rescue its subjects and to whom can they look up to for help. This is exactly the dilemma that the Denotified and Nomadic communities have been facing since the British rule. Prevailing situation today calls for an overhaul of law enforcement and civil administration. It also requires educating the general public/civil society about these communities to remove the false images that they have developed about these communities." ([Renke 2008:103](about:blank))
+
+150 million individuals [(Renke, 2008)](https://www.zotero.org/google-docs/?Hms0Pf), better known as the Denotified Tribes (DNT) of India, continue to be considered 'criminal by birth'. By 1924, the Act was finally applicable to the whole of British India. Along with the introduction of laws such as the Forest Acts and the Salt Tax Act, the British threw a noose around the lives of DNTs using stringent regulations. And independent India settled with the Habitual Offenders Act (HOF) while denotifying the Tribes. Which functioned as an extension of the criminal Tribe Act [(Reddy, 2018)](https://www.zotero.org/google-docs/?8a0BSG).
+
+"Most of the Denotified and Nomadic community members face abuse of human rights by the law enforcing authorities, realtors, politicians, landlords, and the village communities. They are exploited by every one of them. They are many a time victims of the misuse of power by the police and the caste communities in the villages" ([Renke 2008:92](about:blank))
+
+When there was a court case against you even before you were born. Creating and ascribing that Criminality to a big chunk of your identity. With the removal of such a law, the 'Criminality as Identity' for the NT-DNT community was never removed. Words like 'Ex-criminal, earlier criminal tribes in academic as well in popular media made the community look as some degenerates who need saving. But, at the same time, caste violence served the vehicle to saving. Today NT-DNT has become the 'orient' who is illiterate, irrational, superstitious, doesn't understand anything and is self-indulgent.
+
+Several laws enacted by the Government of India have affected the livelihoods of the Denotified, Nomadic and Semi-Nomadic communities. For instance, Criminal Tribes Act (subsequently repealed in 1952 but replaced by Habitual Offenders Act), Indian Forest Act (its subsequent versions), Wildlife Protection Act of 1972, Land Acquisition Act of 1984, Prevention of Beggary Acts (States) adopting antiquated Bombay Prevention of Begging Act, 1959, The Drugs and Magic Remedies (Objectionable advertisements) Act 1954, Excise Act of 1944, Environment Protection and Biodiversity Conservation Act of 1999, Prevention of Cruelty to Animals Act, 1960, etc. have affected the Denotified, Nomadic and Semi-Nomadic communities by denying them access to the resources, to which they had traditional rights, and deprived them of their livelihoods. In fact, it made them criminals overnight without offering them any sustainable alternatives. The callousness of the State has only increased the misery of these communities and increased their vulnerability. ([Renke 2008:99](about:blank))
+
+"The stigma of criminality and the consequent harassment of Denotified & Nomadic Tribes is the major problem affecting crores of people in the whole of the country" ([Renke 2008:130](about:blank))
+
+\
+
+#### **Lack of constitutional safeguards**
+
+Most of the current generation is the only first-generation learners. Not having documents not only have impacted the older generations but the impact has belled into future generations. Many of the first-time learners never get admitted into schools, those who can get admission they drop out before the secondary school or even at primary. As documents such as Date of Birth, School, Ration card, Election card are complementary to each other having one document increases the chance of getting another and increasing the chance of having access to better services. Which in most cases for the nomadic and Transgender community in nowhere to be seen?
+
+"The Denotified and Nomadic communities in addition also carry a stigma along with the decline of the relevance and feasibility of their traditional occupations. Whenever there are any development projects like construction of dams, industries, mining, etc.), which require rehabilitation, these communities never receive any benefits, in spite of being evicted from their traditional places of living and work, as they lack any record of rights or rights of residence. All these impact their livelihoods and throw them out of gear with their lives (Renke 2008)."\
+\
+
+"There are varied reasons for the perpetuation of atrocities on these communities, the major one being the colonial rule. In a way, they are the helpless victims of the wronged past as well as the present due to deliberate orchestration of falsehood by the dominant groups or interests.  They behave as if they are the rulemakers and take law into their hands, and harass these helpless and poor members of the communities.  Denotified and Nomadic communities encounter many a humiliation, and both verbal and physical abuse for meeting their basic needs, like food and shelter, and in accessing amenities like drinking water, fuel, fodder, burial place for their dead, etc. They are constantly hounded out, living in grip of fear and threat for their existence.  Many a time, the complaints from the Denotified and Nomadic communities are not even registered, leaving aside their expediting. An important fact that the Renke Commission learnt was that the law-enforcing agencies were under severe pressure from middle and upper classes to book ragpickers, and deal with them sternly, for they thought that 'today's ragpickers would" ([Renke 2008:107](about:blank))
+
+\
+\
+\
+\
+
+### **Indian Citizenship, Politics of Documentation and NT-DNT and SNT Communities**
+
+According to the Renke Commission, people belonging to NT and DNT communities form 15% of the total population of India. 50% of these people don't have any documents signifying their community. There are over 350 castes, tribes, and sub-castes in Maharashtra only. Till 1990, people from NT/DNT communities were not allowed to set up their temporary homes in one place for longer than three days. This restriction was implemented by the Sarpanch, the police, and by common villagers. People from nomadic communities were not allowed to live in villages in order to maintain the caste economy. They were not allowed to participate in the affairs of the feudal castes or the village society. They were restricted from accessing production processes and the only roles they could play were limited to providing entertainment or a select few other services. Because people from these communities were always on the go, the government never had to work towards providing basic citizenship rights such as water, electricity, education, healthcare etc. The population of many of people from many of these tribes is less, and that is why it is easier for settled castes to dominate them. 
+
+The Constitution of India promises 'one vote per person', but one needs an address proof and ration card to apply for a voter ID card. People from nomadic and denotified communities rarely hold these documents and as a result, historically, they have rarely participated in India's democracy. Similarly, many of them do not have legal rights to property. Most people don't have caste certificates, aadhar cards, address proofs, voter ids, etc. Even those like the Wadar community who have given up their nomadic lifestyle and settled in Mumbai have not been able to access these documents. 
+
+Not only do these people not have an address proof, there is no machinery in place for them to prove that they are migrating in a certain region/state. The ones who have settled are not permitted to build permanent houses in villages. For example, people from the Masan Jogi community are only allowed to stay in the village cemetery and they don't have the right legal documents for these residences.
+
+The National Register of Citizens (NRC) is a register maintained by the Indian Government entering names & certain relevant information for identification of Indian citizens of the Assam state. The register was specifically made for Assam state in 1951 to draw up a list of citizens(Bhaumik & Purkayastha, 2020). The list excluded nearly two million people from among the residents of Assam. The state deemed them to have failed to prove that they were Indian citizens (India Exclusion Report, 2020, p. 191).
+
+According to Professor Narayan Bhosale, people from nomadic and denotified communities do not have the documents necessary for the NRC. Because they lead a nomadic lifestyle, they cannot always keep such documents with them. Many people lose their documents in accidents, rain storms, or other natural disasters. Nomadic people do not have the necessary information or reason needed to keep their documents safe for their next generation. Even if they want to settle, they are not accepted in the village. If they want to access the Gruhanirman Yojana, they need to create their address proof document. Such certificates should be given by gram panchayat or the revenue office, but they are not. At most, they may have the permission document given by the police acknowledging their nomadic lifestyle which lets them travel from one village to another. These documents are usually kept only till their purpose is served. Professor Bhosale further stipulates that the class in power has spread various rumours about nomadic and denotified communities so that they are denied entry into villages. They were not allowed to join the dominant culture of society, and neither were there any efforts made to understand the nomadic culture. Alternatively, nomadic communities' culture and science was never allowed to have a respected place in dominant culture. Even if nomadic communities find a place among other settled communities, they are given a lesser position in the hierarchy.
+
+\
+
+### **Methodology**
+
+We started with discussions on the issues related to the Nomadic communities. Among many NRC and CAA, which we think is going to have the most adverse impact on the different nomadic communities residing sparsely all over India. We discussed what could be the issues a Nomad might face to prove their citizenship. It was apparent even before the start of a discussion to have a provable answer. How can a nomad prove that they are a Citizen. Those who have worked with the Nomadic?  Does a Nomad have the written documentary proof to show that they belong to India and are its citizens without the fear of being thrown into a detention centre? If one's livelihood is such that they in most cases do not have such proofs.
+
+We discussed and gave an outline to the research i.e. how we should move and have a survey during the Covid19 pandemic. We discussed the questionnaire in multiple meeting to frame the proper questionnaire. Before going on to collect the data based on the questionnaire. We hired and trained the Local Youth from the community. Although the researchers who are involved in the research, all of them from different Nomadic communities and are well aware of the complexities and intersectional issues.
+
+We trained two surveyors from the community and provided them with the designed survey. We rested on a target of getting 100 household surveys in a month. In the meantime, we did the online literature research on databases such as google scholar and a regular google search with Keywords such as Nomadism, Citizenship, Criminalization, Vulnerability, NRC, CAA. We meet regularly through Zoom and Google meet to discuss the literature and the Surveyors we received.
+
+After taking 30 household surveys we decided to review the findings. By doing so we wanted to minimize any whatsoever shortcomings might later feature in the final document. And we reframed 6 questions and reduced the importance of a few others for the sake of simplicity and to make a better sense. After 30 days we received 106 surveys and google form proved to be not useful to generate better charts. We downloaded all the responses and did the analysis in excel using pivot tables.
+
+#### Cleaning the Data
+
+We divided the questionnaire into further three sub groups. First, Short Responses where the response was 'yes/no' or on similar responses-to do a fast analysis. Second, the Thematic Questions (responses), where the responses are longer and need more of a qualitative analysis. Third, The Demographic Questions, the purpose of the sub group Demographic is to the basic information of the communities.
+
+#### **Challenges**
+
+The challenges we faced during the research are choosing the location for the study. Historically the settlements in Colonial Bombay were the places where a large number of Nomadic communities lived. Ambernath being a distinct place where many Nomadic communities from different states live here makes it a perfect place to understand various issues concerning the nomadic communities.
+
+The other challenge Covid-19 pandemic lockdown, travelling and taking interviews during this time is a big challenge. Fortunately, our field researchers are from the community itself and reside in the same area. This also ensured the reliability of the data as the community was more open and welcoming to someone from the community itself.
+
+### **Participants of the study**
+
+A total of 107 in-depth interviews are taken from among the different Nomadic communities from the Ambernath area in the Thane district of Maharashtra. We found that 86.7% are practising nomadism regularly while 11.4 % are practising it sometime. A practice to earn a livelihood based not only on constant migration from one place to another but with extreme vulnerability to exploitation. From the same number of communities, 98.1% don't own a house which is to say that 98.1% are living in **tents**. With constant mobility due to historical caste discrimination and invibilisation at the policy level.
+
+#### **Demographic Background -- Number of communities, population**
+
+##### **A snapshot of the data we collected is presented here in different charts**
+
+![](https://lh6.googleusercontent.com/xVthj-8D_4R-3HSIengfT1FWYiEISe07PbjB3iKInjOBFXTLc_7YRf3xITcn0lHIdBHzvlkXZ2X342SwbKE9I99wljnWRlmltFpz0VhUVksG2r3aYgJlqpUBEoRd9xuNv_xPw0ddSkxuIpXdTQ)
+
+Among the sample, Nathpanthi Davari Gosavi represents the highest numbers at 37% which is also the representative of Ambernath area. As the community is Maharashtrian itself it is expected that Davari Gosavi will be more in numbers. Mariaawale community makes up 19% of the sample but interestingly many of the other communities are not 'natively' form Maharashtra. For example, the Banjara community from Rajasthan makes up 15% of our sample. Raj Bharatri community originally from Uttar Pradesh and surrounding areas. While the Vadar community represents 12% of the sample.
+
+What's surprising among the Nomadic communities is the diversity. Even in a small survey, we can see the highly diverse nomadic communities. Not just the customs but there is a great diversity of languages and cultures among the communities which they share collectively.
+
+**The great diversity among the Nomadic communities is visible among the nomads.**
+
+![](https://lh6.googleusercontent.com/Irvu2mADCOddJNrWSjSdDEi3_ApvQWCUgrVJ0J6NPVbf1ywOxgfS4aMgICDnAKY34Dfn9pvDG1zEBmaB-PkJOH3myrILroq5nAoET42X-ktD3mPKztPUYXoLwtLzWcBPofoTChiHmnqtIaYtCg)
+
+Among the total participants of the study percentage of the female respondents was .....and the percentage of the male respondents was.....
+
+#### **Occupational Background of the participants**
+
+![](https://lh4.googleusercontent.com/9kh-p7ZhBE2beMJgWtmCU1fSQuiGEotlT8aTF0tgpJZ5cGUa23JT_kKieGFRZ0yKUJeRjsO-uVSt2wtFmSQGpe3-EtA-1xqTVCzEbcItVlvgbU1zmkhP1Q0MfvuzAhefXm-_wJ4l9pfygDudJw)
+
+\
+
+The highest earners group of 48.1%  are earning between 5,000-7,000 rupees per month. No guess is required to imagine what work community is involved. We kept the question open-ended to include as many responses when asking about the occupation. Among the occupations **begging** as at 34.9%, daily wagers at 34%, waste collection 5.7%, electric cookware repairing 4.7%, Potraj dance performance 1.9%, Porter 1.9%, Selling balloons 1.9%, playing the Sarangi and Begging 3.8%. However, the earning from such a source can not meet the daily needs. People practice multiple combinations getting involved in other tasks too to make ends meet. Communities such as Nathpanti Davari Gosavi, Mariaaiwale, Banjara and Vadar are the communities having more number of families in Ambernath comparatively. And there are no whatsoever specific signs to be seen that what community is doing what work. Begging and Daily wage work are the two occupations in which every community is involved around 68.9% of the surveyed families. Though field staff was not able to gauge the 'Caste' the Muslim community belong. However, considering all of the 4% of them involved in sweeping occupations only. We used the larger term Muslim for our own simplification. Further, all of the Muslims in the survey have a similar occupation of sweeping. 
+
+\
+
+It is no surprise a maximum number of Nomadic people particularly around cities and small towns survives on crumbs. The inherent suggestive name of the community i.e., Nomads to not ever have to consider them for any govt. schemes or providing them with those facilities which the state provides to its 'Citizens'. Though nomadic communities don't only rely on a single source to earn a livelihood. Many of them earn through different means.  However, begging as a source of income is not surprising to those who have been working in this area. The criminalization of begging is a well-known fact in the Indian law without giving any recourse to any other form of livelihood, making a whole community get stuck in the beggary cycle. The policing of the communities is explicit in the Bombay Prevention of Begging Act of 1959 (Bombay Prevention of Begging Act, 1959, n.d.). There is almost no out of such a situation if police are involved in something which they have no understanding at all. The issues are policy level understanding of Begging. It involves caste and criminalized nomadic communities. Though the Criminal Tribes Act of 1872 (B&B Associates, n.d.) has been abolished but not from the psychic of the police state.
+
+As "their traditional technical skills, knowledge about the environment, medicinal herbs, music, art, theatre, and other expertise are becoming a lost treasure and things of no value. The plight of some of the peripatetic Nomads is much worse due to loss of patronage, the emergence of new communication and entertainment media, and the enactment of different laws by the State. Many of them have become 'criminals' in the eyes of law and wider society. They have now taken to begging, rag picking, prostitution and other immoral activities for their existence. This has a clear bearing on their right to livelihood and residence. Economic aspects The denotified and nomadic communities pursue a wide variety of livelihoods, depending on the specific nature of the community in question. The pastoralists based on the animals they tend to vary in their economic pursuits. There are pastoralists who raise cattle, buffaloes, goats, sheep, camels, pigs, geese, etc. These pastoralists are a good source of milk, butter, meat, wool, organic manure, and other animal products. They traditionally have customary relations with the peasants in rural India. Some of these traditional economic relations are affected due to many changes that have taken place since colonial times. ([Renke 2008:86](about:blank))
+
+The majority of the denotified and nomadic communities, especially the peripatetic, are poor and they cater to the lower and middle-level peasantry (Misra, 1982: 21). However, today, their livelihoods have become unlawful due to the misplaced policies and programmes of the governments and unthoughtful policymakers. As a result, their traditional occupations have become now demeaning and disrespectful, and of low esteem. Most of the peripatetic nomads have been reduced to begging, wage labour, etc.
+
+"The people who were driven to misery and uncertainty have been encountering animosity and disdain for no fault of theirs from the wider community. Many times they are chased out of the villages and face the worst kind of discrimination which is unparallel to any kind of discrimination meted out to settled communities." ([Renke 2008:95](about:blank))
+
+"When we look at their traditional occupations and their existing occupations, it offers us an understanding of changes that have taken place and the reasons for these changes.  A large number of DNTs are engaged in rag picking in cities and towns and are living in extremely unhygienic conditions with no knowledge and understanding of the aspects of safety in their jobs" ([Renke 2008:138](about:blank))
+
+At 34% per cent, there are few nomadic communities who are into daily wage labourers in the unorganized sector. Interestingly the majority of those who are daily wage labourers are from the Banjara community. While others still performing their musical instrument along with begging, few took up the jobs of repairing cookers and gas stoves. These works are those which everyone has encountered in small towns and big cities. With meagre earning with maximum risk of losing income altogether is a bitter truth.
+
+"Another important aspect to note is that their products do not get a favourable response from the modern markets as they lack access to them. Most of them, who indulge in street vending of vegetables, fruits, old clothes, cosmetics, bangles, toys, baskets, etc., face problems of eviction and harassment from police, revenue, and other local authorities. These communities cater to the needs of the poor and make a living out of the sale of their produce of labour. Thus there is a need to provide access to market places to these communities." ([Renke 2008:88](about:blank))
+
+However, those who produce they make have huge value due to their exoticization in the market. but upper-caste NGOs have completely dominated this trade and used nomads as temporary labourers when their business reached break-even, the NGO fires them. at the same time, they are taken for marketing to market their events and expansive workshops to treat them and their skills exotic and marketable to get more funding for their NGOs. ([note on p.88](about:blank))
+
+The decline in sources of living, many of the nomadic tribes or communities have been shifting to a sedentary lifestyle, thus leading to an occupational shift. Most of the nomads are now into wage labour (Gobar Times, 2002; Bokil, 2002, Facing Exclusion, Indian Journal of Social Work, Vol. 63, I; and Lim and Rita Anand, 2004, Confronting Discrimination, Habitat International Coalition, Housing and Land Rights Network). ([Renke 2008:97](about:blank))
+
+\
+\
+
+#### **Educational background of the participants**
+
+![](https://lh4.googleusercontent.com/VadblgqHRlsfEg40Ss9Lzwtv9R1Lv1OdKA0TsPYVB88XrLOfTvwey2qbeV_yPeInlvuN7bc6evb94UBStEys3cjRXeL0Tq8qWziX2fUdi13EzS82V74RltQ2Qv2gXSnxs8R0Go2f8xdpXshUKw "Schooling")
+
+Nomadic communities have a multiplicity of issues that lead to such a situation. Starting from the State's apathy, criminalization of a large chunk of Nomadic tribes, discrimination in the larger society, access to schools and the nature of the Nomadism itself. The Renke commission report also mentions the plight of DNT communities when it comes to education. In our survey, only 17% mentioned that ever attended the school. This is the situation of a place which is close to one of the biggest metropolises of India. We did not need to imagine on a larger scale the situation of those Nomadic communities living nearby small towns and outside of the villages or those who are on the constant move.
+
+As Renke commission report 2008 states that "Schools are not an attraction to these communities. They do not relate themselves to the culture of the nomadic communities. Even if a school is available in the vicinity of the communities, they refrain from using it as it does not have any relevance to them. It cannot provide them with any means of livelihood, hence is not useful to them. The problem of the low incidence of enrolments and high dropout rates are related to the poor educational infrastructure, distance from the school facility, lack of hostel facilities, and the prevailing educational system." ([Renke 2008:88](about:blank)). Which increases the vulnerability to have access to other things including documents. Though it shy's away from mentioning discrimination and other biases having a big impact on access. It slightly touches on the historic marginalization of the nomadic communities. Which birthed out of the Caste system and later colonialism infused with the caste system.
+
+"Education, by far, is a basic agent of change in the process of socio-economic development of disadvantaged groups. DNTs are no exception. While the Central Government launched its flagship programme of Sarva Shiksha Abhiyan (SSA) in 2001-02 for the whole of the country irrespective of caste or religion and the national rate of literacy is gradually inching up, it has not been able to make much headway for DNTs mainly for two reasons. One, there is not enough awareness for education among the DNTs living in far-flung areas and moving around the year from one place to the other in search of livelihood; and second, the children of these Tribes are looked at as additional hands for eking out a livelihood for the family. Thus, the rate of literacy among DNTs is much less than any other social segment of the population. It is, therefore, necessary that special efforts are made to undertake a massive awareness programme for DNTs to convince them to send their children to schools. girls' Though SSA also promotes education to eliminate gender disparities, the girls' position of education in DNTs is far too bad and special efforts are to be made to improve the situation." ([Renke 2008:121](about:blank))
+
+\
+\
+\
+\
+\
+\
+\
+\
+
+#### **Impact of NRC, NPR and CAA**
+
+Renke commission clearly mentions that DNT communities lag the citizenry rights, which can be only claimed through various kinds of documentation which DNT communities do not have! "Poverty and lack of citizenry rights deny them access to basic rights. Though free primary education to every citizen is a constitutional right, as Tilak observed, 'There is nothing like 'free' education in India' (2007: 262, in Abusaleh Shariff and Maitreyi Krishnaraj, eds., State, Markets and Inequalities, Orient Longman, New Delhi). In fact, he further pointed out that 'Low income groups spend a higher proportion of their income on education than the rich' (ibid: 263). In the case of a Denotified and Nomadic population it is not the question of low-income but a question of no-income." ([Renke 2008:84](about:blank))
+
+lack of marriage certificate - migration, disaster etc the reasons but with this lack of register marriages or registration of marriage after traditional marriage is not in practice
+
+Practice of changing names after marriage will affect one to prove their relationship with their maternal/paternal families. This becomes even more difficult as on the one hand the government accepts the problem and still, on the other hand, asks to prove the legacy relationship establishing her relationship to her mother or father and her grandmother or grandfather. For the same, the documents asked in the NRC are similar to the documents asked in List A and List B.
+
+\
+
+### **Brief timeline of events leading to the updating of the Assam NRC**
+
+-   1951: First-ever National Register of Citizens (NRC) of India published.
+
+-   1979: Anti-foreigners' movement started in Assam.
+
+-   January 1980: All Assam Students Union (AASU) submitted the first memorandum demanding to update of NRC.
+
+-   August 14, 1985: Historic Assam Accord was signed.
+
+-   1990: AASU submitted modalities to update NRC to Centre as well as state government.
+
+-   1999: Centre took the first formal decision to update the NRC as per the Assam Accord.
+
+-   May 2005: The then Prime Minister Manmohan Singh chaired a tripartite meeting between the Centre, Assam government and the AASU where an understanding was reached that steps must be taken towards updating the NRC to fulfil the promises made in the Assam Accord. " "The modalities for this were approved by the Centre in consultation with the Assam government.
+
+-   July 2009: An NGO called Assam Public Works moved the Supreme Court pleading that the names of those migrants who have not been documented should be removed from the voters' list. The NGO requested the court that the process to update the NRC should be started. This is the first instance of how the NRC matter reached the Supreme Court.
+
+-   August 2013: The petition filed by Assam Public Works came up for hearing.
+
+-   December 2013: The Supreme Court directed that the exercise to update NRC should start.
+
+-   February 2015: Though the Supreme Court had ordered updating the NRC in 2013 to identify bonafide citizens and weed out illegal immigrants, the actual exercise began in February 2015. "
+
+-   December 31, 2015: Deadline set by the Supreme Court to publish the NRC was missed and since then the apex court has been constantly monitoring the update
+
+-   December 31, 2017: The government published the first draft of the NRC.
+
+-   July 30, 2018: Assam government releases second NRC draft. Of the 3.29 crores who applied, 2.89 crores were declared genuine citizens. The draft NRC excluded over 40 lakh people.
+
+-   August 1, 2018: The Supreme Court ruled that the Assam NRC was only a draft, and hence it cannot be the basis of any action by any authority against anyone. The Chief Election Commissioner O.P. Rawat clarified that the electoral roll is governed by a separate law and exclusion from the final NRC would not mean "automatic removal" from Assam's voters' list.
+
+-   August 17, 2018: The Supreme Court asked the Assam NRC coordinator to submit the data of the district-wise percentage of the population excluded from the NRC draft in the state. "
+
+-   September 5, 2018: The Supreme court had ordered that any one of the 10 of a total 15 documents provided in List-A of the NRC claim form can be used by the claimants to prove legacy.
+
+-   December 31, 2018: This was the deadline for the government to release the final version of NRC. However, the deadline could not be met.
+
+-   September 5, 2018: The Supreme court had ordered that any one of the 10 of a total 15 documents provided in List-A of the NRC claim form can be used by the claimants to prove legacy.
+
+-   December 31, 2018: This was the deadline for the government to release the final version of NRC. However, the deadline could not be met.
+
+-   June 26, 2019: An additional draft on exclusion list was published. This list had 1,02,462 names, taking the total number of those left out to 41,10,169. "
+
+-   June 26, 2019: An additional draft on exclusion list was published. This list had 1,02,462 names, taking the total number of those left out to 41,10,169.
+
+![](https://lh4.googleusercontent.com/05YO5ayqJIRq8LzPxWnbu2cw1VRtGqmgvn9MvmnfXQyA7V6NBmVsKsOPlcW_nCBIahjnUomQrpLq7xwQUDekmANZHyvRJ9TCyAr2yN7QzGIrf2hqCo7DuuL4iI6lSXOw7KifBBhuWPiTdbqWYQ "Know about the existence of the NRC and CAA")
+
+Evident from the chart that information asymmetry that Nomadic communities in India face with regard to something which, is constantly given violent colours against the Muslim community. 62% of those who know something about NRC or CAA do not know it in actuality. 33% dosen't even the anything about the NRC or CAA both for which the BJP and RSS is trying to creat a monster out of Muslim community. Only 5% from the survey know anything at all about NRC and CAA. It is no surprise for a community to not have information about some of the biggest legislations or laws in a country in which they are historically marginalised and tossed from place to place.
+
+\
+
+**Own House**
+
+![](https://lh5.googleusercontent.com/stMDPtZuw96UYO5u8CgFrWea5jxBGFxI_HMFE2uUoyUkkNFhzy8x6M3MeV19a03xbiHG3JHtWk4YynNG7myEyZUxu68sLPDDd9F0dHbRCsJseilDLtsvd7PkMTxX9OzBwyM19FPRlY00lTKaRA)
+
+No house, no permanent address proof which is required for NRC
+
+**Whether Staying at the present place/address since birth**
+
+![](https://lh4.googleusercontent.com/BGciJvvkFvp9J07LG1Ruh8ZhkKecIOkQqbyVwCrOT-RJbEG768Oy_95Mdsog0wx1P9LPWVdnob_3-nS5hrlsbCMR_wCGJIS5bb5b4mDIMGsja7jZEjoGmh-m-Q-BXijhZzgVgrtS4U_dOh2pSQ)
+
+#### Possess Documents Mentioned in List A and B of NRC Assam Exercise
+
+![](https://lh5.googleusercontent.com/54SWr8tZPfcySrbYNhMmLZ-d6KzXa-T_5IJ-F73HWwdDhpOlRNYBv0VXqrpylVF1iMjB-T8hNiIwoBc9gaQ-dUnUnWSMIVYeY0nSHzEQTdzeEUNRPshvpu0ffx9Z38WBvsV9zhzJ7Tx8k-Pi0g "Documents")
+
+The most important question of our survey returned with information which even we were not expecting for the Nomadic communities living nearby large metropolises such as Mumbai. 100 percent of the respondents surveyed said that they do not have documents mentioned.  We thought there might be some issue with the communication of the field researchers but on proper verification we found out that none of the surveyed individuals had documents asked in the list A and B of NRC exercise in Assam from or upto midnight of 24th March, 1971. However, it should not be mistaken that communities do not have the documents asked in the list A and B of the NRC, but those documents are produced in last few years. For example, the Bank accounts, Aadhar cars being the most prominent identities certificates among the communities.
+
+##### **Reasons for not having Documents**
+
+![](https://lh6.googleusercontent.com/WjeivGpXLKw_2aJ9wjAMvsPmpfHd7ZbXvG8fI9fcuDj9xapX0jT01owWGyoCVlNpZIyBQ-DcVDZXclc7a2EAgd9rSLjosQndQbzhFgl5eRB48owoCVINalYkD-gudmfmiiexEqvD1djH1u1p1A)
+
+However, Ration card, Aadhaar cards and Bank accounts being the newest as per the dates mentioned on NRC documents. They do not go as far back as the date mentioned in the Assam NRC exercise, which is midnight of 24th March, 1971.  Ration cards, bank account, Aadhaar card, PAN car being the majority identity certificates with the surveyed individuals. Majority of the bank accounts came into existence during the government scheme 'Jhan Dhan Yojana'. **"It's been so many years that I am still not able to get a Aadhaar card for my wife"** says Anand Namdev Kokre, a Pastoral Shepherd and a community leader and the founder of Mendpaputra Army.  This is the situation of a person who is politically well aware of the importance of documentations but Bureaucratic indifference of India State makes it almost impossible for their family to have a piece of document.
+
+add list A and B here
+
+Beside the two Lists A and B mentioning in Assam NRC exercise there are two other documents mentioned for the women who migrated due to migration or marriage;
+
+"(1) Circle Officer/GP Secretary Certificate in respect of married women migrating after marriage (can be of any year before or after 24th March (midnight) 1971), and (2) Ration Card issued up to the midnight of 24th March, 1971 can be adduced as supporting documents. However, these two documents shall be accepted only if accompanied by any one of the documents listed above (Government of Assam, 2020)."
+
+Writing from here on Family trees impact on Women and Transgender.......
+
+\
+
+**Possess document from List A and B asked in NRC exercise in Assam** (but not as per the date mentioned in NRC which is midnight of 24th March 1971)
+
+![](https://lh4.googleusercontent.com/kFk4SkUlpHdIJCxSxTCcbC23RGpfXVsKpximMl05HQjscpMstAmoenzmIQCbhbuqu7IXS2N73ATxbyzdvSRKAx7FdSujTCcymFQJDD5idBzE9MAkdVH3c5tIxm-8WzMlryG0Y7uy7AmPZ7UKHg "possess documents")
+
+**Know how to obtain any of the listed document mentioned in List A and B of NRC Assam survey.**
+
+![](https://lh4.googleusercontent.com/j6dcN32d1aaO7jkXb1mK6pNX93GObb0Gt8--AfszFqHV9WNtTNZX_o-YGF-HugPDlxrqVZxx4nttkoJqV6NXNqOJqTYfgADGHUKPq5ukyXfdTj9GujVktyG5mRE7q6VrK_YV-CgCTTLbPRHkhw)
+
+All of the charts above provide us with the clear information about the condition of the Nomadic Communities in India. On every developmental scale they are worse off than any other community in India. From education to the access to housing, every tangible and intangible asset doesn't exist with the Nomadic communities. When asked about the two basic questions on documents in Assam NRC exercise; none of from the survey to be found to have any document asked in both of the list A and B to possess mentioned documents. 66.7% percent those who participated in the survey are not sure if they  possess any or all of the documents mentioned in Assam NRC list A and B. While 16.2% strictly don't know how to obtain documents mentioned in the NRC list A and B.  Only 17.1% said that they know how to obtain documents mentioned in the Assam NRC list A and B.
+
+Similarly, when we tried to know that do they know how to obtain those documents mentioned in Assam NRC list A and B? Not surprisingly, only 2% know how to obtain mentioned documents. 63% know 'little bit' which is to say that they know the place where to go for documents issued by the government. But does not know more than that, which is the main struggle a person faces in India, with indifferent and  corruption riddled bureaucracy. 35% still do not know even that much information.  
+
+Nomadic communities face constant harassment of demolition of their settlements and eviction by the local revenue officials, municipal authorities, realtors, police, and the politicians. Such as in Jammu and Kashmir...the Gujjar Community is facing the constant harassment (links here of demolition drives)
+
+"Housing is a basic human need. While a large number of Denotified Tribes are settled, Nomadic Tribes are generally on the move in pursuit of their traditional occupations for livelihood. Also, in view of the changing economic scenario, their age-old traditional occupations are gradually losing relevance in providing the desired livelihood support. The Nomadic Tribes are increasingly.  Housing is an area where these communities face very serious problems. They do not have any record of rights (patta) for their residential plots, though they have been living in those areas for generations, be they in public or private land or waste lands; or on the roadside or in the fringe of the villages.  They constantly live under these threats. Most of them live in small katcha houses (if we call them so) made of jute rags, polythene, or tin sheets, etc., without any sort of public amenities like safe drinking water supply, drainage, internal roads, etc.
+
+"It has been seen that DNTs are living in slum conditions all over the country both in urban and rural areas. They live either in the open, small, and makeshift tents or in small hutments or improvised pucca or kachha houses. Not only the space occupied by such houses, etc., is far too inadequate in comparison to the size of their families but their settlements are virtually slums. During their visits to such settlements in some States, the Commission found that these settlements did not have the facility of common amenities like sanitation, clean drinking water, sewerage, electricity, roads, and public latrines, etc. The local body did not appear to have done anything in this regard." ([Renke 2008:117](about:blank))
+
+\
+\
+
+**Similarly the basic document such as Date of Birth**
+
+\
+
+![](https://lh3.googleusercontent.com/EyjeFAF4Tw_4-kiSJUEvlMtxnzfX3pJXdnFBTrENW3zzyfEetkH3R92NsgrzRI4On99k179KmYy1m1hyTWwtulUWvN4Rnl8C6G87_VEs1pFJl0YcC-af6N09fXFejBltifnmPqlo)
+
+The social and economic achievements are one of the lowest for the nomadic and denotified communities in India. With only 32.4 % not knowing their place of birth and only 13.3% knowing their date of birth. Further 82.9% didn't have any kind of schooling while 59.6% of children were still not able to attend school. Date and place of birth is a crucial document for NRC....According to Professor Narayan Bhosale of the history department at Mumbai University, those people of the NT and DNT communities who are now 40 years old would also not be able to produce their parents' documents. And so, for a person in their 60s and 70s, it is categorically impossible to do so. 
+
+\
+
+![](https://lh4.googleusercontent.com/HM3LugveYOtFvH3xlJdtHiZnyAzCiz7i2ZXn38yc8bQtSnp4AQwaBFqwBVWUHvfHz-GM6DXm1kC_uMI3jkR7quiB7UMyyllAVLeraNGqkkpMcxXguYdMcQqZ5beTlY-4V0UBE7yt-eJ0r0c-bw)
+
+\
+
+Above data shows that 79% people do not have Date of birth certificate because they did not registered for the same because while practising nomadism nomadic women give birth to their children during migration, in the forest or at the outskirts of the villages which make it difficult for them to access government offices for birth registration and 15% people among the respondents are not aware of the existence of necessity of such registration. It is clear from this data that nomadic people will not be able to fulfil the condition of providing proof of birth on land of this nation. 
+
+These are causative factors since the deprivation of these groups is closely linked with the process of caste and ethnicity-based exclusion and discrimination [(Thorat, 2005)](https://www.zotero.org/google-docs/?tbbLTk). A situation where the bureaucratic state is happy to show its indifference. All of this, not having a permanent address, living in tents, not able to get admission to school, not knowing the exact date of birth increases the vulnerability manifolds. In a country where the fetish of documentary evidence is the precursor to the establishment of individual identity. The Nomad is someone who doesn't fit in the Settled Society State's idea of Citizenship.
+
+\
+
+![](https://lh6.googleusercontent.com/6wImHCXiJz18IqyMDRdphtM5ZQqoEp2bHMwhlnl8robRB0AyUyHWxaMzwN7nRmoiO-DMTIw3hJhqsNsKFo1VzMyMLhMM5aMBGGBhsWcbv0uqID-i1Dxdg6WOkI5mGPZiOhRv4Nmcghj7qfzqlQ "Census Conducted")
+
+It is also no surprise that only 29% say that there was any census conducted in their locality. It shows the neglect that Nomadic communities have been constantly facing for decades. When there is no survey, not even in the memory except for those who were criminalised for another process. The question arises that how come such a community must possess the tens of documents which the State is asking to prove Citizenship. To register for any kind of document one needs to be counted first. Will NRC and CAA exercise become the second exercise in 'Criminalisation' of all the Nomadic communities in independent India after the first time during the colonial government.
+
+\
+
+#### **The Gendered Impact of NRC and CAA**
+
+Perhaps the possible impact of the laws such as NRC/CAA will be worse on the Women's and LGBTQ community. One doesn't have to imagine much that who much such laws will have an adverse impact on the Nomadic women and LGBT community. Muslim nomadic communities are in even worse position. The problem starts with not having documents leading to further not having documents. Questions related to providing information pertaining to Family Tree is something which is always hard to obtain.
+
+\
+
+![](https://lh6.googleusercontent.com/bL4sq49h_B9a9yxQfW_e-U-6-gsOdZj7Irn3ErWnBFUEbCT3eK6kf_NHiiMnWuyfzdsaXIpTPbr0sLsVsvDhPkh_667mqmIjtuUKfaTfi328pF_jM_rCFNFMrW9F2v55VZZ3isGKZSIqaIdLWQ)
+
+\
+
+"As the Community Survey of the Commission reveals these communities have not received any benefits of government development programmes. The problem of the aged and that of destitute women is more alarming as they have not received the benefits of any governmental schemes like the old age pension. They also do not receive any financial assistance from any of the formal financial institutions. They continue to depend on moneylenders and from private sources and borrow almost on a daily basis to meet their subsistence on exorbitant rates of interest.
+
+"Their women are not spared. They become easy victims of some of the lustful and corrupt personnel in the law enforcing machinery, and the land in the villages. Even children are not spared. The Community Survey clearly reflects the human rights violations and abuse of power by the police and others" ([Renke 2008:92](about:blank))
+
+Disha Pink Sheikh a transgender and an social activists says "People from transgender community leaves their parents' house in early age so they do not carry any proof of identity with regards to their biological parents. Even if they have so then after changing gender identity, they change their name so older identity proof and current identity does not match. Name, middle name, surname everything changes. They identify themselves with their Guru's name. So, during the process of NRC proving our gender identity will be a task. Even now when we go to Aadhaar Seva kendra even after requesting officials to put us in the gender category of others, they put us in male or female category. In Assam NRC more than 2000 people from transgender community were kept outside the list. Transgender people are Nomadic and they are landless as well. If they are staying somewhere on rent then also the owner does not give them any proof of residence. We always experience that the owner never allows us to use the postal address of the houses where we live on rent, for anything. From the procedure followed for NRC in Assam we can say that for NRC information related to biological families is considered valid, but we do not follow that system of family. Our family system is entirely different. Our family is not dependent on blood relation; we adopt each other orally, so we do not follow any documentation. Even if we do so and I will give my Guru's documents then also they will not consider those. According to CAA 2019 our government says it will give citizenship to Hindu's from Pakistan, Afghanistan, and Bangladesh but not to Muslim. Our country was under Mughal rule for long time and so our Hijra community came under influence of Islam, many among us follows Islam. Many among us follow sufism. Our names are also of mixed religion like mine Disha Pinky Sheikh so how will the government divide us on the basis of religion? Nomadic people also do not carry any caste certificate or certificate showing their religion. We orally pass on our culture and religion to the next generation.
+
+People from transgender community or Nomadic communities remain so busy in their struggle for livelihood that they rarely get time to apply for any certificates or documents. Only this year I got my ration card. Among 120 people in my family only 8 people have ration cards. People do not have bank accounts. Voter id, Aadhar card, ration card, PAn card or any other documents. Among 120 people only 13 have bank accounts. In Maharashtra where in Mumbai only our population is more than 50 thousand, among total population of transgender only 2000 people have voter id card till the date. That means huge number of people from transgender community do not have basic documents. They even fail to do railway reservation due to unavailability of identity proof documents.  So, we will be automatically thrown out of NRC.
+
+If we go to offices to apply for these documents' officials do not treat us with respect, their behaviour often hurts us mentally. If we go to apply for a caste certificate in Tehsil office the official harasses us to the extent that we leave those places without getting any documents done. NRC rules are themselves made out of the intention of hate towards people from certain religion, communities and caste. They want to treat this population as secondary citizens. They want to make us slaves.
+
+Till today we use form no 6 for applying for voter id card. Those who do not have residential address proof have to apply through this form. In these conditions how can the government even think about applying NRC? Do we have voter ids of 100% of the population of the country?
+
+Or Adhar card or Bank accounts? Answer is no. then what is the need of applying CAA or bringing NRC.
+
+How is this possible for people from Transgender communities or Nomadic communities to trace family tree? When we don't have any documents of our previous generations.
+
+Supreme court has recognized the identity of Transgender community as different gender in 2014, so how can we provide documents or any proof of our existence before 1971. "
+
+The Renke Commission report states that many women from nomadic and denotified communities are pushed into sex work. Since nomadic and denotified women are never included in any voter list, any government scheme or policy, especially the ones targeted towards 'women' could never reach them. The communities marked as 'ex-criminals' have had to face police brutality constantly. Through cruel violence and without following any legal procedures, too many innocent individuals have been thrown into prisons. In that, the trouble caused and torture carried out with women is the most inhumane.
+
+While questioning this irresponsible behaviour of the government, **Shakeela**, a young social activist says, "The government is asking for proof dating back to the 1950s. My father was a nomadic person and he never had a single piece of paper to show the government. Does this mean that we came here from another country? It is the government's job to look for illegal immigrants, but why are the common citizens of this country being troubled for this? The government has historically kept our community away from the means of production. For example, they have brought a ban upon the sale of traditional herbal medicine and never made any other means of sustenance available to us. It seems like the government only has one objective - to trouble common citizens. They don't even give us the means to earn any sort of a living. They kept our ancestors in their prisons. To put it bluntly, only people belonging to upper castes would have documents dating back to 1950. What does this mean? That only the upper castes are citizens of this country and those decided to be 'lower' are not? I will not show the government a single piece of proof and neither will anyone else from my community. We reject this law. Nowhere in the Constitution does it say that we owe our personal details to anyone.
+
+With 72%  never attended school and 40% don't know their place of birth and 43% don't know their date of birth. With almost no one having any document pertaining to the mentioned in the NRC Assam in List A and B both. The only documents are Aadhaar cards and Jan Dhan Yojna zero balance bank accounts. The struggle for documents goes even more weird when the government will allow Nomadic married women to produce the Documents asked in neither of list A or B. But have to prve with anyone of the documents mentioned separately. To produce a circle officer certificate and  Ration card is a game of mice and a Cate.
+
+"BPL (Below Poverty Line) card is another handicap faced by the DNTs and without BPL cards, they are not able to qualify for the benefits of various welfare schemes meant for the weaker sections and the downtrodden. The State Governments may launch a special programme to have BPL cards issued to the eligible families belonging to DNTs." ([Renke 2008:117](about:blank))
+
+"Similarly, a large number of DNT families are without Ration Cards which deprive them of the benefits of the Public Distribution System to purchase essential commodities at concessional rates from the Fair Price Shops. The Nomadic Tribes are the worst hit by this situation. Denotified Tribes, particularly Nomadic Tribes, are largely BPL population. It is, therefore, necessary that the States/UTs undertake the exercise of issuing Ration Cards to DNT families by organising a special campaign both for urban and rural areas." ([Renke 2008:117](about:blank))
+
+Professor Mosin of CSDS says
+
+Q. Statelessness- doubtful, tradition as oral- move from one place to another place, how to look at it then
+
+Disparate impact, this policy is discriminatory in effect, we do not how exactly NRIC and NPR will be implemented there are two different law one is citizenship act 1955 which was further amended and another is 2003 rules, NRIC is part of these rules, its not part of legislation
+
+NPR will be conducted first, which is the population register of residence and local bureaucrats will make this. People will be called in order to prove that they are residents. After that a consolidated list of NRIC will be made.(called as All India NRC popularly) do we know what kind of documents will be demanded, oral evidence will be accepted or not? We have only one example to look at is Assam, Nomadic is not major constituency in Assam, In Char area there is Bengali Muslim community practice nature enfored migration they leave in island in Brahmaputra, so when water rises they move to some other place, they do not have permanent address, extreme marginalization, low literacy rate.
+
+Another comparison you can do, women are actually a migrant community. After marrying at a very young age they migrate, rarely meet their parents if husband dies his family may not accept them. In NRC these two communities women and community from Char were adversely affected.  In Assam the process was very clear. It was monitored by the supreme court. But in NRIC nothing is clear. 
+
+So Nomadic communities will be definitely worse affected not only because they do not have documents but also because they are nomadic they do not have government recognized addresses, they are economically and politically backward. They are subjected to government capras, whim, discretion arbitrariness for them the process itself will be discriminatory. Policies itself are discriminatory. 
+
+Q. identification, local officers , legally identifying indian citizens
+
+Yes we have variations in documents, so we do not know what will be the impact as we do not know the procedure itself. This is an irresponsible act of the government; they have announced the process without clarifying the details. In Assam people are declared foreigner due to small-small variations in the documents. Foreigners tribunal cause act judicial body formed under 1964 tribunal order. The member of the tribunal decides if people are citizens or foreigner.Ria vergis, **Daksh foundation report s**ays small variations in spellings or date of birth led to declare a person as foreigner. India exclusion report shows the procedural violence while implementation of NRC. In Assam people who are kept out of the NRC are not provided with the reasons for the same, so we do not know the basis of exclusion from NRC.  Transgender, illegitimate children,property issues, variation in spellings and date of birth can be the reasons. Even in the translations from bengali to english,not even the contradiction but the usage of the name...if the same model is adopted in all India NRC then...\
+\
+
+Q. Discrimination at foreigner tribunal
+
+In the last 5-6 years in Assam the qualification of members of FT has been diluted to a large extent lawyers having less experience were appointed, retired civil servants were appointed as members so the people who do not have legal expertise were appointed so the process became bureaucratic. These members do not have the experience of how to look at the evidence, cross questioning, the significance of oral evidence. So the legal process became weak. These jobs are contractual and in order to extend contract performance audit is taken. If the government wants to extend the contract of only those who declare more foreigners than automatically FT members will do that. Earlier retired judges were appointed before 2013-14 during this time less number of population was declared foreigner as compared to last 5-6 years.  **Amnesty international report**
+
+People from marginal communities face the tribunal they get frightened due to various reasons like facing a big city for the first time, facing officers,inability to read the documents or participate in the reasoning of cross questioning due to language barrier. If the tribunal is not sensitive towards these things then it is obvious that people will be scared of the process as there are a number of examples in Assam. 
+
+Large number of population among nomadic is muslim in the areas like Jammu Kashmir, Himachal, uttarakhand, Kaccha Gujrat. And they are not having documents. 
+
+Q.Unrecognized communities, already invisible communities
+
+Cannot say. Already complicated legal processes which can be misused by local bureaucrats as they are given discretion,performance audit system, hatred towards particular communities all this will lead to a bad result. We can see this in Assam where border police misused their power, tribunal did not follow law, in few cases high court should have reversed the cases but that did not happen, then formation of detention centers. But the process regarding the NPR NRIC  is not declared yet so we cannot say. Transgender community- Swati Baruha, Current condition of Nomads in Jammu & Kashmir.
+
+"The NRC exercise in Assam demonstrates the process' failure to take into consideration the gendered nature of society in Assam, as well as the process' gendered impact. The disproportionate and pernicious effect of this process on women includes exposure to a much higher risk of being rendered stateless, and to their fates being left to the mercy of Foreigners Tribunals that are quasi-judicial bodies. In addition to remedying these gaps in Assam, New Delhi must take into account the lessons learnt if it envisions undertaking the NRC nation-wide"
+
+"The Denotified and particularly the Nomadic Tribes are unable to exercise their right to vote as either they are ignorant or are on move from one place to the other and have not been included in the voters' list. It is also because these people may not have permanent residences. Steps need to be taken by the Union Government, the Election Commission of India, and the State Governments to undertake a special campaign for inclusion of their names in the voters' lists." ([Renke 2008:117](about:blank))
+
+\
+\
+
+#### **Conclusion**
+
+Film director Nagraj Manjule says in an interview,"I and many more like me are always in jail, and only the jailer changes. The identity of the jailer is of no consequence to us. My struggle is only to exit the jail." Similarly, the struggle of the nomads is not new even if the current jailer is new. In addition to that, this issue is being portrayed as Muslim issue. Even if the population of Muslim people in the country is 15%, the population of people belonging to nomadic and denotified communities too, even if not fully counted, can be said to be around 15%. This question then is not just a Muslim question, but smokescreen of it being so has been created in order to for the politics of the country and to coax citizens to fight amongst each other. Marginalized sections have been entirely ignored and their very existence in this country is being questioned.
+
+"The law laid down by the Supreme Court constitution bench judgement in 1994 in S.R. Bommai's case says that no law can be enacted by the parliament or by a state legislature on the basis of religion. According to me, the CAA, distinguishing between persons on the basis of religion, as per Bommai, is unconstitutional," former apex court judge V. Gopala Gowda (Jain, 2021; The Wire, 2020). Similar statements and opinions are constantly raised on the constitutionality of the NRC and CAA.
+
+However, we came to know another pertinent understanding of two other specific questions. one, how worried are the individuals surveyed? the other Information about the community which is going to be affected the most?
+
+![](https://lh5.googleusercontent.com/aUJBCmDv026NuOyQaMYPBelF_cJbUTA0oQxJeAp6Vi-FK-ETR7PBNbPFEKya-vPMteLaxILadktPaEgaqVJJE25u8HjXBUa_NeqQ9JD2Zc2RE21JxEFuQW2cUvVETq7OkOgQQoZmvypLeMnW3w)![](https://lh3.googleusercontent.com/60ZjmK0O5oDIDi1CFGfgl39-7y5LhZeK9Y-MkqLqYERIDSc-iF2S-QKNNthvAvcGzPFpRVWRhhOuWX-qvbC32QwtEaYdOtuAW3pkWeSiqgSFm-undnMJKbhuDrLrWenP1XCIYRiozcreTE_3nw)
+
+\
+\
+
+ This should be no surprise to see that most of the DNT-NT individuals in our survey had a wide range of opinions around the NRC and CAA. There could be innumerable reasons to look at. And the very important are shown below **(four charts to include here)**
+
+\
+\
+\
+\
+\
+\
+\
+\
+
+#### Recommendation
+
+-   Whose problem is this? It's not people's problem but the problem of the government. People should not accept this law at all. Government didn't provided the documents and people have memories and stories where they lived and travelled and build relationships.
+
+-   Government must understand the conception under the 'Indian caste and Tribes' under this diversity must consider the issues of Nomadic communities as priority.
+
+-   Whatever proof the nomadic communities' provider should be considered as valid
+
+-   The issue of individual vs community must be addressed
+
+-   The issue of oral history considering the communities themselves might not able to properly narrate its own history.
+
+-   Reaching the locations where such documents and
+
+#### Bibliography
+
+<!--chapter:end:index.Rmd-->
+
+# The pool of tears
+
+
+<!--chapter:end:02-tears.Rmd-->
+
+# A caucus-race and a long tale
+
+<!--chapter:end:03-race.Rmd-->
+
